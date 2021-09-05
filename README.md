@@ -3,4 +3,4 @@ Plots and data from the HP 4194A Impedance Analyzer.  Requires Veusz software (f
 
 Please see https://exality.com/beautiful-hp-4194a-plots/ for a complete description of this software and instructions for installation and use.
 
-To install only the executable, download the entire "publish" folder and run "setup.exe"
+To install the Windows app only, download the entire "publish" folder and run "setup.exe"
